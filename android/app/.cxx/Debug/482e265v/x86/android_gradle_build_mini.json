@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/shereenamj/Flutter/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/shereenamj/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/shereenamj/Flutter/netflix_bloc/android/app/.cxx/Debug/482e265v/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/shereenamj/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/shereenamj/Flutter/netflix_bloc/android/app/.cxx/Debug/482e265v/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
